@@ -1,0 +1,40 @@
+img{
+    width: 90%;
+    height: 50%;
+    margin-top: 34%;
+    margin-left: 45%;
+}
+#profilesection{
+    display: flex;
+    flex-direction: row;
+
+}
+#summary{
+    margin-left: 4%;
+}
+.summaryofme{
+    width: 25%;
+
+}
+h3{
+    text-align: center;
+    margin-top: 6%;
+}
+#names{
+    margin-left: 18%;
+    margin-top: 19%;
+}
+.aboutme{
+    width: 70%;
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+#About{
+    display: flex;
+    flex-direction: row;
+}
+#about{
+    background-color: whitesmoke;
+
+}
