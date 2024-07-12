@@ -30,6 +30,7 @@ img{
 }
 #contact{
     margin-left: 29%;
+    margin-top: 3%;
 }
 #contactsandotherskills{
     display: flex;
@@ -67,4 +68,7 @@ h3{
 #about{
     background-color: whitesmoke;
 
+}
+h2{
+    
 }
