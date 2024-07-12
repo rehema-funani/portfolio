@@ -9,12 +9,42 @@ img{
     flex-direction: row;
 
 }
+#expertise{
+    display: flex;
+    flex-direction: row;
+
+}
+#skills{
+    width: 30%;
+    margin-left: -10%;
+}
 #summary{
     margin-left: 4%;
 }
 .summaryofme{
-    width: 25%;
+    width: 55%;
 
+}
+#otherskills{
+    margin-left: 4%;
+}
+#contact{
+    margin-left: 29%;
+}
+#contactsandotherskills{
+    display: flex;
+}
+#EducationalBackground{
+    display: flex;
+}
+#education{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+#project{
+    width: 50%;
+    margin-top: 2%;
+    margin-left: 16%;
 }
 h3{
     text-align: center;
